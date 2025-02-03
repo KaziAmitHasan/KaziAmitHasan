@@ -8,7 +8,7 @@
 - ***Kaggle competition expert (x4) [Top 0.6%], top ranks in 11++ ML competitions ([Kaggle](https://www.kaggle.com/amithasanshuvo)+[Hackerearth](https://www.hackerearth.com/@kaziamit))***
 - Graduated and completed BSc. degree in Computer Science & Engineering (CSE) from Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/)
 - **Research interests:** Data Mining, Software Engineering, Machine Learning, Mining Software Repositories, Data Analytics.
-- **Latest Publication:** A First Look at Self-Admitted Miscommunications in GitHub Issues [HSCE&CS 2024] 
+- **Latest Publication:** Understanding Abandonment and Slowdown Dynamics in the Maven Ecosystem [MSR25] 
 - **Latest ML Competition Rank:** ***Runners Up*** in Robi Datathon 2.0
 
 
